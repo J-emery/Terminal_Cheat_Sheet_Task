@@ -1,0 +1,6 @@
+#I'm not really sure what types of files I'd want to ignore when committing
+#I can ignore logs anywhere like this:
+**/logs
+#or really anything which matches for instance:
+**/txt
+#I think that should ignore text files when committing
